@@ -71,4 +71,4 @@ The game and WebSockets will run on the same URL.
 
 ## Play Online
 
-- https://royal-ludo-arena.onrender.com
+- https://adhrit-royal-ludo-arena-game.onrender.com
